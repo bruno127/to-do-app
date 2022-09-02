@@ -1,5 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="pa-6">
+    <h1>About Todo app</h1>
+    <p>App made with Vue.js using Vuetify</p>
   </div>
 </template>
