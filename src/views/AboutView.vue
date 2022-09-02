@@ -1,6 +1,5 @@
 <template>
   <div class="pa-6">
-    <h1>About Todo app</h1>
-    <p>App made with Vue.js using Vuetify</p>
+    <p>App made with Vue.js using Vuetify and Material Design Icons</p>
   </div>
 </template>
