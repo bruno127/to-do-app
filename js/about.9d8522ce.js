@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkto_do_app"]=self["webpackChunkto_do_app"]||[]).push([[443],{7397:function(n,t,u){u.r(t),u.d(t,{default:function(){return r}});var e=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"pa-6"},[t("p",[n._v("App made with Vue.js using Vuetify and Material Design Icons")])])}],a=u(1001),i={},l=(0,a.Z)(i,e,s,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.9d8522ce.js.map
