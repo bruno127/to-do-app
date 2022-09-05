@@ -7,7 +7,7 @@
    @keyup.enter="addTask"
    class="pa-3"
    outlined
-   label="Append"
+   label="Add a task..."
    append-icon="mdi-plus"
    hide-details
    clearable
